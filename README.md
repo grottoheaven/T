@@ -1,3 +1,1 @@
-"# demo-repo" 
-"# demo-repo" 
-"# Tbank_project" 
+A small pet project I made for Tbank internship :)
